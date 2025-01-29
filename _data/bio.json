@@ -1,43 +1,41 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kawika Naweli",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/KawikaN.png",
+    "email": "Kawikakn@hawaii.edu",
+    "phone": "808-476-4794",
+    "website": "https://KawikaN.github.io",
+    "summary": "Aloha, My name is Kawika Naweli and I grew up in Nanakuli, Hawaii. I'm currently an undergrad studying computer science at the University of Hawaii at Manoa.",
+    "location": { "address": "", "postalCode": "96792", "city": "Waianae", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "KawikaN", "url": "http://github.com/KawikaN" },
+      { "network": "linkedin", "username": "kawika-naweli", "url": "http://linkedin.com/in/kawika-naweli" },
+      { "network": "instagram", "username": "_junyahboy_", "url": "http://instagram.com/_junyahboy_" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Surfing" },
+    { "name": "ML/AI" },
+    { "name": "Entrepenuership" },
+    { "name": "Computer Vision" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Flask" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "g++", ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "B.A.",
+      "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,69 +43,65 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Gidens",
+      "position": "Software Engineering Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2025-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Developing Main Product For Gidens Team",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Writing test for functionality.",
+        "Envision and design workflow/design of product."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "NoirLab",
+      "position": "Software Engineering Intern",
+      "website": "https://noirlab.edu/public/",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-20",
+      "summary": "Automated the transfer of 2000+ confidential documents from an SQL database to Confluence using Python and Large Language Models, reducing 300+ hours of manual work and supporting critical processes of over 1000+ employees worldwide.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Categorized files using an advanced unique sorting algorithm that automatically creates the fileʻs categories by content while filtering out obsolete and empty files."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Kaukau4Keiki",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Packed and handed out 100 meals weekly to community families with kids during the summer. ",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
+      "organization": "Kamehameha Schools",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Computer Programming TA",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Taught 2 periods (30+ students each)",
+        "KSʻs Dual Credit Program under Hawaii Pacific University"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Hoomau Scholar",
+      "date": "2024-Present",
+      "awarder": "Hoomau Foundation",
+      "summary": "Our mission is to provide scholarships, mentorship, and networking opportunities to Native Hawaiian and Pacific Islander (NHPI) students who are active in the NHPI community. By combining the support for academic success and perpetuation of our culture, the foundation will help recipients succeed in their endeavors while maintaining and growing their cultural ties and identity."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Paubox Kahikina Scholar",
+      "date": "2024",
+      "awarder": "Paubox",
+      "summary": "The primary objective of the Paubox Kahikina Scholarship is to encourage Native Hawaiians to pursue careers in STEM or Tech in general."
     }
   ],
   "references": [

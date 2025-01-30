@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/wd.png
+image: img/wd.png
 title: "HawaiianWordle"
 date: 2024
 published: true

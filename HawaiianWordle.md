@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/wdl.png
+image: /img/wd.jpg
 title: "HawaiianWordle"
 date: 2024
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "Wordle for those who intend to learn more Hawaiian. It also has my own additions to it that doesn't make it identical to NYT's infamous wordle.."
 ---
 
-<img class="img-fluid" src="../img/wdl.png">
+<img class="img-fluid" src="../img/wd.jpg">
 
 This project intends to perpetuate the Hawaiian language by gamifying the learning process. This is done through the recently popular Wordle game. 
 

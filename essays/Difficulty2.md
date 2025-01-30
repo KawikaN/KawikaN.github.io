@@ -1,54 +1,32 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Why Software Engineering - A True Insight"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-01-29
 published: true
 labels:
-  - Engineering
+  - Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Benefits
+Software engineering is often referred to as a lucrative career which holds many opportunities. This is likely one of the driving factors why I pursue it but not the only one. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+### Underated Views
+What is slightly less talked about when speaking on the subject is how software engineering applies to someone who thrives on problem-solving and analytical thinking. Similar to other engineering fields a software engineer must break down large problems into smaller pieces and have them work in sync with one another. With such a vast field and application there are many solutions to any given problem. This allows a developer to choose the approach that matches them the best and at times, "Get creative". 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+### The Computer Scientist Brain
+On top of problem-solving, software engineers must think about how to optimize programs and understand how different components of the program interact to create a product. This can make it difficult for those who may not be used to computer science concepts. Some say it takes a special line of thinking that is rarely found elsewhere.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## Personal Take-Aways
+Personally, not only does software engineering allow me to exercise my logical and complex thinking but it also allows me to make real-life impacts on the world around me. I am able to improve and make people's lives easier. This is important to me because I would like to feel like my work is important to the world. I don't want to just have a "job". 
 
-Here's what I think: the difficult things will always be difficult.
+### My Goal
+This is why I want to develop not only technical skills but also soft people skills so that I am capable of providing solutions to people's needs whether that is in my community or the world. 
 
-## In the context of programming
+## Final Message
+Throughout my career, I hope to  witness my impact on those around me and provide for those who need it most.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.

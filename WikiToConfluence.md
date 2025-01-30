@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: wiki.png
 title: "WikiToConfluence"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A project for the Gemini observatories of Noirlab to categorize and save their document archive online."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../wiki.png">
 
 This project is a script that I created as an Intern while working on Hawai'i island for Noirlab. This project impacted over 300 Noirlab staff in everyday duties.
 

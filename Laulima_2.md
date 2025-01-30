@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/calendar.png
+image: img/cal.png
 title: "Laulima_2"
 date: 2023
 published: True
@@ -18,7 +18,7 @@ labels:
 summary: "An improvement to Laulima while providing UH Students access to professor ratings, class insights, forums, and a calendar for all important dates."
 ---
 
-<img class="img-fluid" src="../img/calendar.png">
+<img class="img-fluid" src="../img/cal">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 

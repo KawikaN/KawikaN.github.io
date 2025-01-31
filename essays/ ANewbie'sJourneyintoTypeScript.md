@@ -1,6 +1,8 @@
 ---
-title: A Newbie's Journey into TypeScript
 layout: essay
+type: essay
+title: "A Newbie's Journey into TypeScript"
+# All dates must be YYYY-MM-DD format!
 date: 2025-01-29
 published: true
 ---

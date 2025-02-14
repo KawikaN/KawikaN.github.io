@@ -8,7 +8,7 @@ published: true
 ---
 
 
-<img width="100px" class="rounded float-start pe-4" src="../img/eslint.png">
+<img width="1000" class="rounded float-start pe-4" src="../img/eslint.png">
 
 After about one week of enduring ESLint, I have formed a somewhat complicated relationship between the tool and myself. If you couldn't tell by my enthusiasm in that last sentence, it has been rough, to say the least.
 

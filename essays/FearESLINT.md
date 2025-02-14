@@ -17,8 +17,9 @@ After about one week of enduring ESLint, I have formed a somewhat complicated re
 For some context, we have been using ESLint in our class as a tool to help write "better" code according to coding standards. The importance of ESLint can be summarized with a quote from [Francisco Moretti](https://www.franciscomoretti.com):  
 *"By incorporating ESLint into your development process, you can enforce consistent coding standards, catch potential errors early, and write cleaner, more maintainable JavaScript code."*  
 
-If you want to learn more, check out this great video: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HCXPJmtV47I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+If you want to learn more, check out this great video: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZuDIXV94Z1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## Cons
 

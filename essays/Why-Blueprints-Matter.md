@@ -10,7 +10,7 @@ labels:
   - Factory Pattern
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/design-patterns/blueprint.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/desing-pattern/blueprint.jpg">
 
 ## Let’s imagine we’re construction workers
 

@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 title: "A Student's Reflection on AI in ICS 314"

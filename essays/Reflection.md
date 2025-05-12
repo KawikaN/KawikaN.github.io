@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "A Student's Reflection on AI in ICS 314"
-date: 2025-05-12
+date: 2025-05-11
 published: true
 ---
 

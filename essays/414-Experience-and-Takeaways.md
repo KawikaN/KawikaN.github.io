@@ -1,0 +1,53 @@
+---
+layout: essay
+type: essay
+title: "414-Experience-and-Takeaways"
+# All dates must be YYYY-MM-DD format!
+date: 2026-05-15
+published: true
+---
+
+
+# Project Retrospective: The Triumph of Planning Over Pure Technical Ability
+
+## 1. The Challenges of Team Coordination and Integration
+
+One of the hardest parts of this semester was coordination. While we met weekly and utilized GitHub Issues, there was still frequent overlap and conflict between teammates' commits. 
+
+### Issue Decomposition and Code Overwrites
+This friction occurred primarily because we did not effectively break issues down to their smallest core functionalities. When goals were left in a higher-level format, they often required multiple prerequisite steps to be completed first. Frequently, those steps inadvertently overlapped with another person's assigned issue. 
+
+Consequently, even though team members were scheduled for different tasks, code was still being overwritten. In the most extreme cases, a function that relied on the very specific behavior of the lost code would break. 
+
+### The Demo Bottleneck
+Compounding this, the team lacked a rigorous verification process. Because no one was checking the collective functionality of the codebase, teammates made last-minute pushes right before our final presentation, ultimately resulting in a broken demo.
+
+### Merging and Technical Debt
+Another major example of poor team integration was merging code into `main` that had not been effectively tested and checked. This forced the team to repeatedly revert merges, throwing off everyone's development flow and leading to the largest number of merge conflicts I have ever had to work with.
+
+---
+
+## 2. Personal Contributions and Roles
+
+> **Personal Reflection:** > Personally, I spent more time debugging code than implementing new features—a dynamic I do not think applied to most of the other team members. 
+
+However, I willingly put myself in this position because I possessed a stronger understanding of DevOps than the rest of the group. Recognizing this gap, I took ownership of:
+* Hosting the core services and APIs.
+* Ensuring our production environment was stable and deployment-ready.
+
+---
+
+## 3. Product Direction and Shared Autonomy
+
+Although our team dedicated several meetings to planning the future direction of our application, these sessions were not as productive as they should have been. 
+
+* **Blurred Direction:** We were constantly asking each other what we were genuinely trying to achieve. Because everyone added their own GitHub issues based on what they *believed* was happening, our project roadmap became blurred. 
+* **Lack of Alignment:** The answers to fundamental project questions varied depending on which team member you asked. 
+* **The Autonomy Trap:** No single person truly "owned" specific end features. While this shared autonomy had minor collaborative benefits, it ultimately slowed down production and created widespread confusion. 
+* **The Missing Stakeholder:** In addition to internal misalignment, we failed to take the client's actual needs into consideration as much as we had hoped.
+
+---
+
+## 4. Key Takeaways: The Value of Management in the AI Era
+
+This entire experience heavily emphasized the critical value of project management and strategic planning. Had our team included someone experienced in handling organizational formalities—rather than having everyone focus solely on implementing features—our overall productivity would have increased, and our results would have flourished.
